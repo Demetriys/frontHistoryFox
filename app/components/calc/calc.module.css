@@ -1,0 +1,8 @@
+.calc-container {
+    background-color: #f0f0f0; /* Фоновий колір */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Тінь */
+    margin: 20px auto; /* Центрування */
+    max-width: 400px; /* Максимальна ширина */
+}
